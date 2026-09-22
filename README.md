@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Software+Developer;Python+%7C+AI+%7C+PHP+%7C+Node.js+%7C+React+%7C+AWS;PostgreSQL+%7C+Oracle+%7C+MySQL;6%2B+Years+Building+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Software+Developer;Laravel+%7C+Python+%7C+AI+%7C+PHP+%7C+Node.js+%7C+React+%7C+AWS;PostgreSQL+%7C+Oracle+%7C+MySQL;6%2B+Years+Building+Production+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -190,6 +190,7 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 
 **Master of Computer Applications (MCA)**
 CCSU University, Meerut Campus &nbsp;|&nbsp; 2016 – 2018
+<br>
 **Bachelor of Computer Applications (BCA)**
 CCSU University, Meerut &nbsp;|&nbsp; 2013 – 2016
 
