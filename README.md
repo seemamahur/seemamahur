@@ -228,8 +228,10 @@ CCSU University, Meerut &nbsp;|&nbsp; 2013 – 2016
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=seemamahur&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seemamahur&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seemamahur&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seemamahur&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
 </div>
 
 <div align="center">
