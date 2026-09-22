@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Software+Developer;Python+%7C+AI+%7C+PHP+%7C+Node.js+%7C+React+%7C+AWS+%7C+PostgreSQL+%7C+Oracle+%7C+MySQL;6%2B+Years+Building+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Software+Developer;Python+%7C+AI+%7C+PHP+%7C+Node.js+%7C+React+%7C+AWS;PostgreSQL+%7C+Oracle+%7C+MySQL;6%2B+Years+Building+Production+Systems" alt="Typing SVG" />
 
 <br/>
 
-![Portfolio](https://komarev.com/ghpvc/?username=seemamahur&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=seemamahur&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seema-mahur-246b14164)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahur835@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seemamahur)
@@ -75,7 +76,7 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 <br>
 
 **Languages & Frameworks**
-![Python](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -187,8 +188,10 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 <summary><b>Click to expand 👇</b></summary>
 <br>
 
-**Master of Computer Applications**
+**Master of Computer Applications (MCA)**
 CCSU University, Meerut Campus &nbsp;|&nbsp; 2016 – 2018
+**Bachelor of Computer Applications (BCA)**
+CCSU University, Meerut &nbsp;|&nbsp; 2013 – 2016
 
 </details>
 
