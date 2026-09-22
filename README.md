@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Software+Developer;Laravel+%7C+Node.js+%7C+React+%7C+AWS;6%2B+Years+Building+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Software+Developer;Python+%7C+AI+%7C+PHP%7C+%7C+Node.js+%7C+React+%7C+AWS+%7CAWS PostgreSQL Databases+%7COracle+%7C+MySql;6%2B+Years+Building+Production+Systems" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=seemamahur&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+![Portfolio](https://komarev.com/ghpvc/?username=seemamahur&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seema-mahur-246b14164)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahur835@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seemamahur)
@@ -21,7 +21,7 @@
 <summary><b>Click to collapse ⬆️</b></summary>
 <br>
 
-Senior Software Developer with **6+ years of experience**, the last 5+ living in **Laravel** — cutting API response times and scaling systems to handle **1M+ requests a day** without breaking. I design REST APIs and microservices, tune databases (MySQL, Oracle, Aurora PostgreSQL, MongoDB, Redis) for real production load, and secure everything with JWT, OAuth2, and AES/RSA encryption.
+Senior Software Developer with **6+ years of experience** — cutting API response times and scaling systems to handle **1M+ requests a day** without breaking. I design REST APIs and microservices, tune databases (MySQL, Oracle, Aurora PostgreSQL, MongoDB, Redis) for real production load, and secure everything with JWT, OAuth2, and AES/RSA encryption.
 
 I take ownership end-to-end — from a vague requirement to a shipped feature — under real deadlines, real pressure, and real production fires. Comfortable working directly with cross-functional teams.
 
@@ -75,6 +75,7 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 <br>
 
 **Languages & Frameworks**
+![Python](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -237,7 +238,7 @@ CCSU University, Meerut Campus &nbsp;|&nbsp; 2016 – 2018
 
 <div align="center">
 
-📍 Noida / Gurgaon, India &nbsp;|&nbsp; 📞 +91-6396427971 &nbsp;|&nbsp; ✉️ mahur835@gmail.com
+📍 Noida / Gurgaon, India &nbsp;|&nbsp; ✉️ mahur835@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seema-mahur-246b14164)
 [![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahur835@gmail.com)
