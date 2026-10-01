@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Software+Developer;Laravel+%7C+Python+%7C+AI+%7C+PHP+%7C+Node.js+%7C+React+%7C+AWS;PostgreSQL+%7C+Oracle+%7C+MySQL;6%2B+Years+Building+Production+Systems" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Software+Developer;Laravel+%7C+Codeigniter+%7C+PHP+%7C+AI+%7C+PHP+%7C+Node.js+%7C+React+%7C+AWS;PostgreSQL+%7C+Oracle+%7C+MySQL;6%2B+Years+Building+Production+Systems" alt="Typing SVG" /> -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=1100&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Full-Stack+Software+Engineer;6%2B+Years+Building+Scalable%2C+High-Concurrency+Production+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -22,9 +24,7 @@
 <summary><b>Click to collapse ⬆️</b></summary>
 <br>
 
-Senior Software Developer with **6+ years of experience** — cutting API response times and scaling systems to handle **1M+ requests a day** without breaking. I design REST APIs and microservices, tune databases (MySQL, Oracle, Aurora PostgreSQL, MongoDB, Redis) for real production load, and secure everything with JWT, OAuth2, and AES/RSA encryption.
-
-I take ownership end-to-end — from a vague requirement to a shipped feature — under real deadlines, real pressure, and real production fires. Comfortable working directly with cross-functional teams.
+Senior Full-Stack Software Engineer with 6+ years of experience designing and building scalable, high-concurrency backend systems, microservices and e-commerce platforms. Strong expertise in Laravel (PHP), Node.js, React.js. Built related health insurance partner portal covering proposal forms, premium calculation, third-party REST API integrations, Java/ Client API Integration based on requirements, payment integration. Engineered low-latency REST APIs and microservices handling 1M+ requests a day, optimizing MySQL, Aurora PostgreSQL, Elasticsearch and Redis workloads for production load. Build reliable cloud-native solutions on AWS (EC2, S3, Route 53), with event-driven, queue-based processing and CI/CD automation. Secure APIs using JWT, OAuth 2.0, and AES/RSA encryption. Take end-to-end ownership from vague requirement to shipped feature, and collaborate with product, QA and DevOps and Java API teams.
 
 📍 Noida / Gurgaon &nbsp;|&nbsp; 🟢 Open to new opportunities &nbsp;|&nbsp; ✈️ Open to relocating
 
