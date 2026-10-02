@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Software+Developer;Laravel+%7C+Codeigniter+%7C+PHP+%7C+AI+%7C+PHP+%7C+Node.js+%7C+React+%7C+AWS;PostgreSQL+%7C+Oracle+%7C+MySQL;6%2B+Years+Building+Production+Systems" alt="Typing SVG" /> -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=1100&lines=Hi+%F0%9F%91%8B%2C+I'm+Seema;Senior+Full-Stack+Software+Engineer;6%2B+Years+Building+Scalable%2C+High-Concurrency+Production+Systems" alt="Typing SVG" />
 
 <br/>
@@ -23,9 +21,9 @@
 <summary><b>Click to collapse ⬆️</b></summary>
 <br>
 
-Senior Full-Stack Software Engineer with 6+ years of experience designing and building scalable, high-concurrency backend systems, microservices and e-commerce platforms. Strong expertise in Laravel (PHP), Node.js, React.js. Built related health insurance partner portal covering proposal forms, premium calculation, third-party REST API integrations, Java/ Client API Integration based on requirements, payment integration. Engineered low-latency REST APIs and microservices handling 1M+ requests a day, optimizing MySQL, Aurora PostgreSQL, Elasticsearch and Redis workloads for production load. Build reliable cloud-native solutions on AWS (EC2, S3, Route 53), with event-driven, queue-based processing and CI/CD automation. Secure APIs using JWT, OAuth 2.0, and AES/RSA encryption. Take end-to-end ownership from vague requirement to shipped feature, and collaborate with product, QA and DevOps and Java API teams.
+Senior Full-Stack Software Engineer with 6+ years of experience designing and building scalable, high-concurrency applications. Strong expertise in Laravel (PHP), Node.js and React.js. Built Care Health Insurance partner portals covering proposal forms, premium calculation, payment integration, and third-party REST / Java / client API integrations. Engineered low-latency REST APIs and microservices handling 1M+ requests a day, optimizing MySQL, PostgreSQL and Redis workloads for production load. Build reliable cloud-native solutions on AWS (EC2, S3) with event-driven, queue-based processing and CI/CD automation. Secure APIs using JWT, OAuth 2.0 and AES/RSA encryption. Take end-to-end ownership from vague requirement to shipped feature, collaborating with product, QA, DevOps and Java API teams.
 
-📍 Noida / Gurgaon &nbsp;|&nbsp; 🟢 Open to new opportunities &nbsp;|&nbsp; ✈️ Open to relocating
+📍 Noida, India &nbsp;|&nbsp; 🟢 Open to new opportunities &nbsp;|&nbsp; ✈️ Open to relocating
 
 </details>
 
@@ -37,32 +35,44 @@ Senior Full-Stack Software Engineer with 6+ years of experience designing and bu
 <summary><b>Click to expand 👇</b></summary>
 <br>
 
-### 🏥 Care Health Insurance — India's leading Health Insurance
+### 🏥 Care Health Insurance — Partner Portals (Enterprise SaaS Insurance Portals)
 
-20+ enterprise partner portals for clients including **Muthoot Finance, Union Bank, Pai, UTX, Slice, Sundaram Finance, Andromeda, North East**.
+Care Insurance is one of India's leading health insurance companies, offering health and travel insurance to individuals and families. Built and delivered **20+ enterprise partner portals** for clients including **Muthoot Finance, Union Bank, Pai, UTX, Slice, Sundaram Finance, Andromeda, North East**, covering proposal forms, premium calculation, payment integration and policy issuance, including AWS migration.
 
 - 🔗 [UTX Portal](https://partners.careinsurance.com/portals/utx/) · [Sundaram Finance](https://partners.careinsurance.com/portals/sundaram_finance/) · [Pai](https://partners.careinsurance.com/portals/pai/) · [Muthoot](https://partners.careinsurance.com/portals/muthoot_cbs/)
-- **Tech:** PHP, Laravel, Aurora PostgreSQL, AWS (EC2, S3, RDS, IAM, VPC, Load Balancer, Auto Scaling), REST/Client/Java APIs, JavaScript, jQuery, AJAX, GitHub, Redmine, JIRA
+- Worked with a small team to take each portal from client requirements to production, cutting policy issuance turnaround by **40%**.
+- Designed secure, distributed REST APIs in **Node.js and Laravel (PHP)** for relationship-manager operations (lead tracking, policy issuance, renewals).
+- Tuned PostgreSQL queries and refactored backend code, improving API response times by up to **40%** and query efficiency by **30%**.
+- Strengthened application security by identifying vulnerabilities and applying secure coding practices aligned with **OWASP** recommendations.
+- **Tech:** PHP, Laravel, Aurora PostgreSQL, AWS (EC2, S3, RDS, IAM, VPC, Load Balancer, Auto Scaling), Node.js, ReactJS, REST/Client/Java APIs, JavaScript, jQuery, AJAX, Docker, CI/CD, GitHub, Redmine, JIRA
 
-### 💰 AurumWiseX — Bonds Capital
+### 💰 AurumWiseX — Financial Data Platform for Neo-Realty Investment
 
-Real estate investment platform built from scratch.
+WiseX is India's first and largest neo-realty investment platform by Aurum PropTech. Established the backend infrastructure and RESTful APIs from inception.
 
 - 🔗 [bondscapital.in](https://bondscapital.in/)
-- **Tech:** Laravel, JavaScript, MySQL, AWS (S3, EC2, RDBMS, Datadog monitoring), Node.js, React, jQuery, AJAX
+- Deployed scalable microservices, supporting **8k+ concurrent users**.
+- Modeled high-performance financial data structures in MySQL, and improved query performance by **25%** through continuous performance tuning and schema optimization.
+- Integrated **Apache Kafka** for event-driven, asynchronous data streaming across services.
+- **Tech:** Laravel, JavaScript, MySQL, AWS (S3, EC2, RDBMS, Datadog monitoring), Node.js, React, Kafka, Jenkins, jQuery, AJAX
 
 ### 🛍️ GreenHonchos — Full Stack D2C E-commerce
 
-7 production e-commerce platforms for major retail brands.
+GreenHonchos is a full-stack D2C enabler providing end-to-end e-commerce solutions for brands. Delivered production e-commerce platforms for major retail brands, led requirement gathering and system design for a cross-functional team of 8, and cut security vulnerabilities by **40%** through payload encryption, JWT/OAuth2 access controls and secure coding standards.
 
 - 🔗 [W for Woman](https://www.wforwoman.com/) · [Aurelia](https://shopforaurelia.com/) · [Hamleys India](https://hamleys.in/) · [Hunkemöller](https://hunkemoller.in/) · [Manish Malhotra](https://manishmalhotra.in/) · [ShopForW](https://www.shopforw.com/) · [TUMI](https://tumi.in/)
-- **Tech:** Laravel, JavaScript, Vue.js, Next.js, AWS, MySQL, GitLab, Asana
+- **Hamleys India:** Dockerized environments and orchestrated AWS deployments, sustaining **99.9% uptime** during peak retail traffic.
+- **W for Woman / Aurelia:** Built reusable Laravel/PHP service components and scalable REST APIs, improving API response times by **30%** across high-volume catalog operations.
+- **TUMI:** Led the migration from a monolith to microservices and configured AWS Route53 DNS routing, improving reliability to **99.9%**.
+- **Hunkemöller:** Delivered APIs and database schema for a new platform with microservices, integrated with a Next.js frontend.
+- **Manish Malhotra / Ritu Kumar:** Built API and database architecture on Node.js and Laravel/Lumen for couture and fashion e-commerce.
+- **Tech:** Laravel, Lumen, Node.js, JavaScript, Vue.js, Next.js, Microservices, AWS (S3, Route53), MySQL, GitLab, Asana
 
-### 🎮 Synclusive Innovation — Gaming & E-commerce
+### 🎮 Synclusive Innovation — E-commerce & Gaming
 
-PUBG-style tournament platform with full tournament/admin management, plus REST APIs for a companion Android app.
+Built the e-commerce backend (cart, checkout and product search) in PHP, Laravel and Lumen, serving web and mobile clients. Added indexing and caching on data-retrieval endpoints, cutting average API response time by **30%**. Also built REST APIs for Android app integration.
 
-- **Tech:** Laravel, REST APIs, MySQL
+- **Tech:** PHP, Laravel, Lumen, REST APIs, MySQL
 
 </details>
 
@@ -80,7 +90,9 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -92,6 +104,7 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=serverless&logoColor=white)
 ![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -107,6 +120,7 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 **Security**
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -120,6 +134,8 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
 ![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
+**Also:** API Documentation · Unit Testing · Redmine · JSON · CI/CD
+
 </details>
 
 ---
@@ -130,34 +146,38 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 <summary><b>Click to expand 👇</b></summary>
 <br>
 
-**Senior Software Developer** · Monocept Pvt. Ltd. _(Client: Care Health Insurance)_
-`Jul 2024 – Aug 2026`
+**Senior Full Stack Developer** · Monocept Pvt. Ltd. _(Client: Care Health Insurance)_
+`Jul 2024 – Present`
 
-- Built 20+ enterprise partner portals with AWS migration
-- Optimized APIs and database queries, improving response times by up to **40%**
-- Integrated OTC, Float, PayU, and direct payment links
-- Built secure applications with AES/RSA cryptography, validation and sanitization
+- Built and delivered 20+ enterprise partner portals with AWS migration, covering proposal forms, premium calculation, payment integration and policy issuance
+- Architected low-latency web services in Laravel, tuning MySQL/PostgreSQL query plans for high-concurrency traffic, reducing average response time by **40%**
+- Refactored legacy codebases applying SOLID principles, improving resource utilization and query execution efficiency by **30%**
+- Scaled backend systems to handle **1M+ requests a day**
+- Integrated OTC, Float, PayU and direct payment links
+- Strengthened application security through vulnerability fixes, AES/RSA cryptography, validation and sanitization, aligned with OWASP recommendations
 
 **Software Developer** · AurumWiseX Pvt. Ltd.
 `Sep 2023 – Jun 2024`
 
-- Built a real estate platform from scratch using Laravel, Node.js, and React
-- Created APIs from scratch for backend–frontend communication
-- Built admin features with roles and permissions
+- Built a neo-realty investment platform from scratch using Laravel, Node.js and React
+- Deployed scalable microservices supporting 8k+ concurrent users
+- Improved query performance by **25%** through performance tuning, refactoring and relational schema optimization
+- Integrated Apache Kafka for event-driven data streaming; built admin features with roles and permissions
 
 **Software Developer** · GreenHonchos Pvt. Ltd.
 `Jul 2021 – Sep 2023`
 
-- Developed REST APIs for D2C e-commerce clients (W for Woman, Aurelia, Hunkemöller, TUMI, Manish Malhotra, Ketch)
-- Implemented encryption, access controls, and secure coding practices
+- Led requirement gathering and system design for a cross-functional engineering team of 8
+- Built scalable REST APIs for D2C e-commerce clients (W for Woman, Aurelia, Hamleys, Hunkemöller, TUMI, Manish Malhotra, Ritu Kumar)
+- Implemented payload encryption, JWT/OAuth2 access controls and secure coding standards, reducing security vulnerabilities by **40%**
 - Used Laravel queues for report generation and large file downloads
 
-**Software Developer (PHP Laravel)** · Synclusive Innovation
+**Software Developer (PHP Laravel)** · Synclusive Innovation Pvt. Ltd.
 `Jun 2020 – Jul 2021`
 
-- Built Laravel websites and admin panels for gaming and e-commerce projects
-- Developed a PUBG-style tournament platform with admin management
-- Developed REST APIs for frontend & Android app integrations
+- Built and optimized the e-commerce backend (cart, checkout, product search) in PHP, Laravel and Lumen, cutting average API response time by **30%**
+- Developed REST APIs for web, mobile and Android app integrations
+- Worked with clients and project managers to deliver regular updates and improve user experience
 
 </details>
 
@@ -171,11 +191,12 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 
 - ☁️ Supported migration of on-premise applications to **AWS** — deployment, configuration, changes
 - 🗄️ Migrated DB workloads from **Oracle to PostgreSQL**, updating queries and data handling for compatibility
-- ⚡ **Faster APIs** — reduced response times through query optimization and code refactoring at Care Health Insurance
-- 📈 **1M+ daily requests** on RM portal — scaled backend systems for high-volume transaction traffic
+- ⚡ **40% faster APIs** — query-plan tuning and code refactoring at Care Health Insurance
+- 📈 **1M+ daily requests** on the RM portal — scaled backend systems for high-volume transaction traffic
 - 🏢 **20+ enterprise Partner Portals** — delivered for Muthoot Finance, Union Bank, Pai, UTX, Slice, Sundaram Finance
-- 🛒 **7 production e-commerce platforms** shipped — wforwomen, shopforaurelia, shopforw, Ketch, Hamleys, TUMI, Hunkemöller
-- 🔗 Integrated REST, Java, Lumen, and Node APIs & Microservices for seamless data exchange
+- 🛍️ **7 production e-commerce platforms** shipped — W for Woman, Aurelia, ShopForW, Hamleys, TUMI, Hunkemöller, Manish Malhotra
+- 🔒 **40% fewer security vulnerabilities** through encryption, JWT/OAuth2 access controls and secure coding standards
+- 🔗 Integrated REST, Java, Lumen, and Node APIs & microservices for seamless data exchange
 
 </details>
 
@@ -191,7 +212,7 @@ PUBG-style tournament platform with full tournament/admin management, plus REST 
 CCSU University, Meerut Campus &nbsp;|&nbsp; 2016 – 2018
 <br>
 **Bachelor of Computer Applications (BCA)**
-CCSU University, Meerut &nbsp;|&nbsp; 2013 – 2016
+CCSU University, Meerut Campus &nbsp;|&nbsp; 2013 – 2016
 
 </details>
 
@@ -204,7 +225,7 @@ CCSU University, Meerut &nbsp;|&nbsp; 2013 – 2016
 <br>
 
 - 🎖️ PHP Training — Certificate of Completion, Synclusive Innovation Pvt. Ltd.
-- 🎖️ Java Certificate — Apex TGI Pvt. Ltd.
+- 🎖️ Java Training — Apex Pvt. Ltd.
 - 🎖️ JavaScript / Node.js / React — Udemy
 
 </details>
@@ -227,13 +248,6 @@ CCSU University, Meerut &nbsp;|&nbsp; 2013 – 2016
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seemamahur&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seemamahur&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/> -->
-
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=seemamahur&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
@@ -243,7 +257,7 @@ CCSU University, Meerut &nbsp;|&nbsp; 2013 – 2016
 
 <div align="center">
 
-📍 Noida / Gurgaon, India &nbsp;|&nbsp; ✉️ seema99bsr@gmail.com
+📍 Noida, India &nbsp;|&nbsp; ✉️ seema99bsr@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seema-mahur-246b14164)
 [![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seema99bsr@gmail.com)
